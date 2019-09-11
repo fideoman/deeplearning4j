@@ -14,7 +14,7 @@
  * SPDX-License-Identifier: Apache-2.0
  ******************************************************************************/
 
-package org.deeplearning4j.text.tokenization.tokenizerFactory;
+package org.deeplearning4j.text.tokenization.tokenizerfactory;
 
 import org.deeplearning4j.text.tokenization.tokenizer.ChineseTokenizer;
 import org.deeplearning4j.text.tokenization.tokenizer.TokenPreProcess;
