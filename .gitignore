@@ -62,3 +62,4 @@ doc_sources/
 doc_sources_*
 
 *.pyc
+/bin/
